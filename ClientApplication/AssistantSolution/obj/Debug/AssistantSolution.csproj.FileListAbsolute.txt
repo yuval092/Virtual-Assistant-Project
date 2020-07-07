@@ -1,0 +1,16 @@
+E:\Magshimim\Third Year\Github\Virtual-Assistant-Project\ClientApplication\AssistantSolution\bin\Debug\AssistantSolution.exe.config
+E:\Magshimim\Third Year\Github\Virtual-Assistant-Project\ClientApplication\AssistantSolution\bin\Debug\AssistantSolution.exe
+E:\Magshimim\Third Year\Github\Virtual-Assistant-Project\ClientApplication\AssistantSolution\bin\Debug\AssistantSolution.pdb
+E:\Magshimim\Third Year\Github\Virtual-Assistant-Project\ClientApplication\AssistantSolution\bin\Debug\Newtonsoft.Json.dll
+E:\Magshimim\Third Year\Github\Virtual-Assistant-Project\ClientApplication\AssistantSolution\bin\Debug\Newtonsoft.Json.xml
+E:\Magshimim\Third Year\Github\Virtual-Assistant-Project\ClientApplication\AssistantSolution\obj\Debug\MainWindow.baml
+E:\Magshimim\Third Year\Github\Virtual-Assistant-Project\ClientApplication\AssistantSolution\obj\Debug\MainWindow.g.cs
+E:\Magshimim\Third Year\Github\Virtual-Assistant-Project\ClientApplication\AssistantSolution\obj\Debug\App.g.cs
+E:\Magshimim\Third Year\Github\Virtual-Assistant-Project\ClientApplication\AssistantSolution\obj\Debug\AssistantSolution_MarkupCompile.cache
+E:\Magshimim\Third Year\Github\Virtual-Assistant-Project\ClientApplication\AssistantSolution\obj\Debug\AssistantSolution.g.resources
+E:\Magshimim\Third Year\Github\Virtual-Assistant-Project\ClientApplication\AssistantSolution\obj\Debug\AssistantSolution.Properties.Resources.resources
+E:\Magshimim\Third Year\Github\Virtual-Assistant-Project\ClientApplication\AssistantSolution\obj\Debug\AssistantSolution.csproj.GenerateResource.cache
+E:\Magshimim\Third Year\Github\Virtual-Assistant-Project\ClientApplication\AssistantSolution\obj\Debug\AssistantSolution.csproj.CoreCompileInputs.cache
+E:\Magshimim\Third Year\Github\Virtual-Assistant-Project\ClientApplication\AssistantSolution\obj\Debug\AssistantSolution.csproj.CopyComplete
+E:\Magshimim\Third Year\Github\Virtual-Assistant-Project\ClientApplication\AssistantSolution\obj\Debug\AssistantSolution.exe
+E:\Magshimim\Third Year\Github\Virtual-Assistant-Project\ClientApplication\AssistantSolution\obj\Debug\AssistantSolution.pdb
